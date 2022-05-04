@@ -1,0 +1,10 @@
+@keyframes animationDeals{
+    50%,75%{
+        opacity: 0.4;
+        transform: scale(1.5);
+    }
+    100%{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
